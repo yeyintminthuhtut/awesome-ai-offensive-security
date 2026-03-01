@@ -109,6 +109,7 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - A developer-first framework for AI red teaming and evaluations with flexible configuration and Python integration.
 - [promptmap](https://github.com/utkusen/promptmap) - Prompt injection scanner for custom LLM applications.
 - [ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Tool designed to test and harden system prompts for generative AI applications.
+- [PyMLOKit](https://github.com/ThanniKudam/PyMLOKit) - Toolkit to attack MLOps platforms via REST APIs, supporting modules for reconnaissance, training data theft, model theft, model poisoning, and notebook attacks.
 - [PyRIT (Python Risk Identification Tool)](https://github.com/Azure/PyRIT) - An open-source automation framework from Microsoft's AI Red Team for programmatic multi-turn orchestration and custom attack scenarios against AI systems.
 - [rogue](https://github.com/qualifire-dev/rogue) - Tool to stress-test your AI agents before attackers do by finding prompt injection, sensitive data exposure, and excessive agency.
 - [spikee](https://github.com/ReversecLabs/spikee) - Simple prompt injection kit for evaluation and exploitation.
@@ -122,15 +123,14 @@ Tools and libraries focused on the security of classical and deep machine learni
 
 
 - [Ad-lib](https://github.com/vu-aml/adlib) - Game-theoretic adversarial machine learning library providing a set of learner and adversary modules.
-- [Adversarial Robustness Toolkit](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Focuses on the threats of evasion, poisoning, extraction, and inference.
 - [Adversarial Images](https://github.com/tabacof/adversarial) - Repository exploring the space of adversarial images.
+- [Adversarial Robustness Toolkit](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Focuses on the threats of evasion, poisoning, extraction, and inference.
 - [BadDiffusion](https://github.com/IBM/BadDiffusion) - Official repository to reproduce the paper on backdooring diffusion models published at CVPR 2023.
-- [Counterfit](https://github.com/Azure/counterfit) - Generic automation layer for assessing the security of machine learning systems.
-- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - Adversarial example library for constructing attacks, building defenses, and benchmarking both.
 - [Charcuterie](https://github.com/moohax/Charcuterie) - Code execution techniques for ML or ML adjacent libraries.
+- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - Adversarial example library for constructing attacks, building defenses, and benchmarking both.
+- [Counterfit](https://github.com/Azure/counterfit) - Generic automation layer for assessing the security of machine learning systems.
 - [Deep-pwning](https://github.com/cchio/deep-pwning) - Lightweight framework for experimenting with machine learning models to evaluate their robustness against adversaries.
 - [DeepFool](https://github.com/LTS4/DeepFool) - Method to fool deep neural networks.
-- Snaike-MLFlow - MLflow red team toolsuite.
 - [foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX.
 - [Gym malware](https://github.com/endgameinc/gym-malware) - Environment that makes it possible to write agents that learn to manipulate PE files to bypass AV based on a reward.
 - [OffsecML Playbook](https://github.com/5stars217/offsecml/) - Collection of offensive and adversarial TTPs with proofs of concept.
