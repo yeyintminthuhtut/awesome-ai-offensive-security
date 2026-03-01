@@ -34,6 +34,7 @@ AI tools focused on Open-Source Intelligence, reconnaissance, and footprinting.
 
 AI-driven autonomous or semi-autonomous agents designed to perform active penetration testing, vulnerability exploitation, and red team engagements.
 
+- [Ankou](https://github.com/Red-Hex-Consulting/Ankou) - A flexible, AI-powered C2 framework built with operators in mind, featuring a built-in AI companion for target analysis.
 - [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) - Automates penetration testing using deep reinforcement learning.
 - [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - An automated penetration testing toolkit.
 - [BurpGPT](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform customized, passive scans to identify vulnerabilities in web applications.
@@ -42,9 +43,11 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [Deadend CLI](https://github.com/xoxruns/deadend-cli) - An AI agent that implements a self-correction mechanism: when an attack fails, the agent analyzes the error, rewrites the approach, and retries.
 - [Decepticon](https://github.com/PurpleAILAB/Decepticon) - An AI agent built on LangChain/LangGraph designed to automate red teaming before attackers automate theirs.
 - [DeepExploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit) - A fully automatic penetration test tool utilizing Deep Reinforcement Learning.
+- [DeepSeek-Pentest-AI](https://github.com/HernanRodriguez1/DeepSeek-Pentest-AI) - A Burp Suite extension combining generative AI with smart fuzzing to automate payload generation and vulnerability testing in web applications.
 - [guardian-cli](https://github.com/zakirkun/guardian-cli) - AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows.
 - [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - An autonomous pentesting agent and research framework used for exploring and exploiting environments such as Active Directory.
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - An MCP server that acts as a control layer between LLMs and over 150 security tools, allowing agents to execute tools, adapt strategies, and generate reports.
+- [iothackbot](https://github.com/BrownFineSecurity/iothackbot) - Open-source IoT security testing toolkit with integrated Claude Code skills for automated vulnerability discovery.
 - [LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - A next-generation Autonomous Penetration Testing Agent powered by LLMs, integrating the Planner-Executor-Reflector (P-E-R) Framework with Causal Graph Reasoning.
 - [MAPTA (Multi-Agent Penetration Testing AI)](https://github.com/arthurgervais/mapta) - An autonomous web application security assessment system orchestrating large language models and tool execution. ([ArXiv Paper](https://arxiv.org/abs/2508.20816))
 - [Nebula](https://github.com/berylliumsec/nebula) - An AI-powered ethical hacking assistant that embeds AI capabilities into the terminal to assist with reconnaissance and note-taking.
@@ -72,6 +75,7 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [AgentPoison](https://github.com/AI-secure/AgentPoison) - Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Poisoning.
 - [ai-bom](https://github.com/Trusera/ai-bom) - Tool designed to discover every AI agent, model, and API hiding in your infrastructure.
 - [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive AI Red Teaming platform developed by Tencent Zhuque Lab that integrates modules for Infra Scan, MCP Scan, and Jailbreak Evaluation.
+- [ares](https://github.com/IBM/ares) - A red-teaming programming model for the automated orchestration of AI robustness evaluations natively integrating existing plugins.
 - [ARTKIT](https://github.com/BCG-X-Official/artkit) - An open-source framework for automated LLM red teaming that simulates multi-turn attacker–target interactions.
 - [augustus](https://github.com/praetorian-inc/augustus) - LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks.
 - [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more.
@@ -89,6 +93,7 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [llm-security by greshake](https://github.com/greshake/llm-security) - Demonstrates new ways of breaking app-integrated LLMs.
 - [MCP Injection Experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) - Code snippets to reproduce MCP tool poisoning attacks.
 - [OpenPromptInjection](https://github.com/liu00222/Open-Prompt-Injection) - Provides a benchmark for prompt injection attacks and defenses.
+- [OpenRT](https://github.com/AI45Lab/OpenRT) - Open-source red teaming framework for MLLMs with 37+ attack methods, modular architecture, and multi-modal support.
 - [Plexiglass](https://github.com/safellama/plexiglass) - Toolkit for detecting and protecting against vulnerabilities in large language models.
 - [Prompt Hacking Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) - Curated list of resources for people interested in AI red teaming, jailbreaking, and prompt injection.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - A developer-first framework for AI red teaming and evaluations with flexible configuration and Python integration.
@@ -97,6 +102,7 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [PyRIT (Python Risk Identification Tool)](https://github.com/Azure/PyRIT) - An open-source automation framework from Microsoft's AI Red Team for programmatic multi-turn orchestration and custom attack scenarios against AI systems.
 - [rogue](https://github.com/qualifire-dev/rogue) - Tool to stress-test your AI agents before attackers do by finding prompt injection, sensitive data exposure, and excessive agency.
 - [spikee](https://github.com/ReversecLabs/spikee) - Simple prompt injection kit for evaluation and exploitation.
+- [system-prompt-benchmark](https://github.com/KazKozDev/system-prompt-benchmark) - Test your LLM system prompts against 287 real-world attack vectors, including prompt injection, jailbreaks, and data leaks.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) - Detects prompt injections, jailbreaks, and other potentially risky large language model inputs.
 - [whistleblower](https://github.com/Repello-AI/whistleblower) - Offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API.
 
@@ -124,17 +130,21 @@ Tools and libraries focused on the security of classical and deep machine learni
 
 Intentionally vulnerable AI applications, agents, and LLM implementations designed for practicing and learning AI security testing.
 
+- [aifirst-insecure-agent-labs](https://github.com/trailofbits/aifirst-insecure-agent-labs) - A hands-on lab for testing prompt injection and system prompt extraction attacks with real-time guardrail protection, tracing, and agent tools.
 - [ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
 - [AI Red Team Lab](https://github.com/rodneystanley2025/ai-red-team-lab) - A controlled security evaluation environment designed to assess, harden, and document defenses against adversarial prompt-based attacks on large language model (LLM) systems.
 - [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Challenges for the labs used in the course "AI Red Teaming in Practice".
+- [chat-playground](https://virtualsteve-star.github.io/chat-playground/) - Browser-only lab (no backend) to probe moderation, prompt injection, and output-filter bypasses in vulnerable chat models and guardrails.
 - [damn-vulnerable-ai-agent](https://github.com/opena2a-org/damn-vulnerable-ai-agent) - A deliberately vulnerable AI agent platform for security testing and education. Like DVWA but for AI agents.
 - [damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - The Damn Vulnerable Model Context Protocol (DVMCP) is an educational project designed to demonstrate security vulnerabilities in MCP implementations through 10 challenges.
 - [DVAIA (Damn Vulnerable AI Application)](https://github.com/genbounty/DVAIA-Damn-Vulnerable-AI-Application) - For LLM Red Team Training. LLM testing, RAG testing, Multimodal testing, Agent testing, LLM payload generation.
 - [DVAIB (Damn Vulnerable AI Bank)](https://www.dvaib.com/) - Your training ground for AI security. Exploit a vulnerable AI bank through realistic scenarios, earn achievements, and compete on the leaderboard.
+- [finbot-ctf-demo](https://github.com/OWASP-ASI/finbot-ctf-demo) - Agentic-AI CTF around a simulated fintech assistant that exercises goal manipulation, prompt handling, and guardrail weaknesses.
 - [Gandalf](https://gandalf.lakera.ai/intro) - Test Your Prompt Injection Skills!
+- [llm-attacks](https://portswigger.net/web-security/learning-paths/llm-attacks) - Interactive labs that mirror LLM-enabled web app risks: prompt injection, excessive agency (unsafe tool calls), insecure output handling, and data leakage.
 - [llmail-inject-challenge](https://github.com/microsoft/llmail-inject-challenge) - A challenge to evade prompt injection defenses in a simulated LLM-integrated email client, the LLMail service.
+- [LLMGoat](https://github.com/SECFORCE/LLMGoat) - This project is a deliberately vulnerable environment to learn about LLM-specific risks based on the OWASP Top 10 for LLM Applications.
+- [local-llm-ctf](https://github.com/BishopFox/local-llm-ctf) - Small Go + Ollama harness that routes prompts through “quarantined” vs. “privileged” models to practice bypassing filters and guardrails.
 - [Prompt Airlines CTF](https://promptairlines.com/) - Test Your AI Security Skills.
 - [PromptMe](https://github.com/R3dShad0w7/PromptMe) - An educational project showcasing security vulnerabilities in LLMs and their web integrations with 10 hands-on challenges inspired by the OWASP LLM Top 10.
 - [RedAiRange (RAR)](https://github.com/ErdemOzgen/RedAiRange) - A comprehensive security platform designed specifically for AI red teaming and vulnerability assessment.
-
-
