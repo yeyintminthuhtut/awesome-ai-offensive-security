@@ -34,6 +34,8 @@ AI tools focused on Open-Source Intelligence, reconnaissance, and footprinting.
 
 AI-driven autonomous or semi-autonomous agents designed to perform active penetration testing, vulnerability exploitation, and red team engagements.
 
+- [agentic-pentest-proxy](https://github.com/IntegSec/agentic-pentest-proxy) - MCP Scope Enforcement Proxy - Middleware that enforces penetration testing engagement scope for AI agents using MCP servers.
+- [airecon](https://github.com/pikpikcu/airecon) - AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessments, penetration testing, and bug bounty reconnaissance.
 - [Ankou](https://github.com/Red-Hex-Consulting/Ankou) - A flexible, AI-powered C2 framework built with operators in mind, featuring a built-in AI companion for target analysis.
 - [autobb-analyst](https://github.com/rivalsec/autobb-analyst) - Autonomous bug bounty agent powered by Claude Code. A Telegram bot forwards autobb recon alerts to the agent, which actively pentests targets using MongoDB recon data and a self-maintained knowledge wiki.
 - [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) - Automates penetration testing using deep reinforcement learning.
@@ -45,6 +47,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that integrates AI into your security workflow using local models or cloud providers, connects external AI agents via MCP, and uses passive/active scanners to find vulnerabilities alongside manual testing.
 - [BurpGPT](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform customized, passive scans to identify vulnerabilities in web applications.
 - [clearwing](https://github.com/Lazarus-AI/clearwing) - A dual-mode offensive-security tool with a network-pentest agent and source-code hunter using a native Rust-backed LLM runtime.
+- [communitytools](https://github.com/transilienceai/communitytools) - Open-source Claude Code skills, agents, and slash commands for AI-powered penetration testing, bug bounty hunting, and security research.
 - [Cybersecurity AI (CAI)](https://github.com/aliasrobotics/cai) - A modular framework for building custom AI security agents across offensive and defensive use cases.
 - [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - Pentesting project with one-command deployment, incorporating tool orchestration and a skills system.
 - [Deadend CLI](https://github.com/xoxruns/deadend-cli) - An AI agent that implements a self-correction mechanism: when an attack fails, the agent analyzes the error, rewrites the approach, and retries.
@@ -73,6 +76,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning.
 - [PentestAgent](https://github.com/GH05TCREW/pentestagent) - An AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A penetration testing tool powered by ChatGPT. Automates penetration testing by guiding the user and interacting with underlying tools like Nmap and Gobuster.
+- [phalanx](https://github.com/webxos/phalanx) - Kali Linux Polyglot Harness for Autonomous Pentesting/Cyber Security.
 - [RAPTOR](https://github.com/gadievron/raptor) - An autonomous offensive/defensive security research framework based on Claude Code, empowering security research with agentic workflows and automation (Recursive Autonomous Penetration Testing and Observation Robot).
 - [Reaper](https://github.com/ghostsecurity/reaper) - Ghost Security's reconnaissance and attack surface discovery tool used for pentesting and identifying exposures.
 - [RedAmon](https://github.com/samugit83/RedAmon) - An AI-powered agentic red team framework designed to automate offensive security operations from recon to exploitation.
