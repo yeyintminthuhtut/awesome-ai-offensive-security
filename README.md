@@ -35,12 +35,16 @@ AI tools focused on Open-Source Intelligence, reconnaissance, and footprinting.
 AI-driven autonomous or semi-autonomous agents designed to perform active penetration testing, vulnerability exploitation, and red team engagements.
 
 - [Ankou](https://github.com/Red-Hex-Consulting/Ankou) - A flexible, AI-powered C2 framework built with operators in mind, featuring a built-in AI companion for target analysis.
+- [autobb-analyst](https://github.com/rivalsec/autobb-analyst) - Autonomous bug bounty agent powered by Claude Code. A Telegram bot forwards autobb recon alerts to the agent, which actively pentests targets using MongoDB recon data and a self-maintained knowledge wiki.
 - [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) - Automates penetration testing using deep reinforcement learning.
 - [AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - An automated penetration testing toolkit.
+- [BoxPwnr](https://github.com/0ca/BoxPwnr) - A modular framework for benchmarking LLMs and agentic strategies on security challenges across HackTheBox, TryHackMe, PortSwigger Labs, Cybench, picoCTF and more.
+- [Bug-Bounty-Agents](https://github.com/matty69v/Bug-Bounty-Agents) - AI-Powered Agents for Bug-Bounty Pentesting and Red-Teaming purposes.
 - [bug-reaper](https://github.com/shaniidev/bug-reaper) - Web2 bug bounty Agent Skill that turns any compatible AI agent into a disciplined web2 bug bounty hunter with evidence-based validation.
 - [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) - Autonomous AI-powered security scanning platform combining autonomous AI agents with real security tools to discover, analyze, exploit, and validate vulnerabilities independently.
 - [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that integrates AI into your security workflow using local models or cloud providers, connects external AI agents via MCP, and uses passive/active scanners to find vulnerabilities alongside manual testing.
 - [BurpGPT](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform customized, passive scans to identify vulnerabilities in web applications.
+- [clearwing](https://github.com/Lazarus-AI/clearwing) - A dual-mode offensive-security tool with a network-pentest agent and source-code hunter using a native Rust-backed LLM runtime.
 - [Cybersecurity AI (CAI)](https://github.com/aliasrobotics/cai) - A modular framework for building custom AI security agents across offensive and defensive use cases.
 - [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - Pentesting project with one-command deployment, incorporating tool orchestration and a skills system.
 - [Deadend CLI](https://github.com/xoxruns/deadend-cli) - An AI agent that implements a self-correction mechanism: when an attack fails, the agent analyzes the error, rewrites the approach, and retries.
@@ -53,14 +57,20 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [iothackbot](https://github.com/BrownFineSecurity/iothackbot) - Open-source IoT security testing toolkit with integrated Claude Code skills for automated vulnerability discovery.
 - [Katana AI Agents](https://github.com/Armur-Ai/Katana-AI-Agents-for-website-vulnerabilities-scanning) - LLM powered agents for scanning vulnerabilities on any website (Llama 3 8B, Groq, Selenium, CrewAI, Exa AI).
 - [LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - A next-generation Autonomous Penetration Testing Agent powered by LLMs, integrating the Planner-Executor-Reflector (P-E-R) Framework with Causal Graph Reasoning.
+- [lyrie-ai](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai) - Lyrie.ai — The world's first autonomous AI cybersecurity agent. Built by OTT Cybersecurity LLC.
 - [MAPTA (Multi-Agent Penetration Testing AI)](https://github.com/arthurgervais/mapta) - An autonomous web application security assessment system orchestrating large language models and tool execution. ([ArXiv Paper](https://arxiv.org/abs/2508.20816))
 - [Nebula](https://github.com/berylliumsec/nebula) - An AI-powered ethical hacking assistant that embeds AI capabilities into the terminal to assist with reconnaissance and note-taking.
 - [NeuroSploit](https://github.com/CyberSecurityUP/NeuroSploit) - AI-driven autonomous agents with 100 vulnerability types, per-scan isolated Kali Linux containers, false-positive hardening, exploit chaining, and a modern React web interface with real-time monitoring.
 - [nyuctf_agents](https://github.com/NYU-LLM-CTF/nyuctf_agents) - The D-CIPHER and NYU CTF baseline LLM Agents built for NYU CTF Bench.
-- [Offensive-AI-Attack-Path-Visualizer](https://github.com/HackerBlazeX/Offensive-AI-Attack-Path-Visualizer) - A Windows-first offensive security framework that correlates recon signals, applies AI reasoning via local LLM, and generates realistic attack paths in an analyst-friendly dashboard.
+- [OctoScan](https://github.com/Coucoudb/OctoScan) - A versatile CLI tool orchestrating pentest tools for automated security audits, bug bounty, pentest.
 - [Offensive-AI-Agent-Prompts](https://github.com/CyberSecurityUP/Offensive-AI-Agent-Prompts) - Prompts for performing tests on your Kali Linux using Gemini-cli, ChatGPT, DeepSeek, CursorAI, Claude Code, and Copilot.
+- [Offensive-AI-Attack-Path-Visualizer](https://github.com/HackerBlazeX/Offensive-AI-Attack-Path-Visualizer) - A Windows-first offensive security framework that correlates recon signals, applies AI reasoning via local LLM, and generates realistic attack paths in an analyst-friendly dashboard.
+- [OpenAnt](https://github.com/knostic/OpenAnt) - An open-source, LLM-based vulnerability discovery product that proactively finds and verifies security flaws through a two-stage detection and attack process.
 - [PentAGI](https://github.com/vxcontrol/pentagi) - A multi-agent framework using specialized AI roles for research, coding, and infrastructure to operate autonomously for vulnerability detection.
 - [Pentest Copilot](https://github.com/bugbasesecurity/pentest-copilot) - An AI-powered, browser-based ethical hacking assistant designed for pentesting workflows, deployable locally with Docker.
+- [pentest-agents](https://github.com/H-mmer/pentest-agents) - Autonomous bug-bounty framework for Claude Code — 40 specialist agents, exploit-chain builder, writeup search, and live HackerOne/Bugcrowd integration.
+- [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.
+- [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning.
 - [PentestAgent](https://github.com/GH05TCREW/pentestagent) - An AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A penetration testing tool powered by ChatGPT. Automates penetration testing by guiding the user and interacting with underlying tools like Nmap and Gobuster.
 - [RAPTOR](https://github.com/gadievron/raptor) - An autonomous offensive/defensive security research framework based on Claude Code, empowering security research with agentic workflows and automation (Recursive Autonomous Penetration Testing and Observation Robot).
@@ -68,7 +78,9 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [RedAmon](https://github.com/samugit83/RedAmon) - An AI-powered agentic red team framework designed to automate offensive security operations from recon to exploitation.
 - [Shannon](https://github.com/KeygraphHQ/shannon) - Autonomous AI pentesting tool functioning as a virtual hacker to identify and exploit vulnerabilities, evaluated against benchmarks like XBOW.
 - [Strix](https://github.com/usestrix/strix) - An AI-powered tool that simulates attacker behavior by executing applications and generating working proof-of-concept exploits.
+- [ThreatSwarm](https://github.com/mukul975/ThreatSwarm) - 27 scope-enforced AI agents that run the full pentest kill-chain (recon → exploit → post-ex → DFIR → report) as a one-command Claude Code plugin. Backed by 754 MITRE-mapped skills.
 - [TTPRunner](https://github.com/Antonlovesdnb/TTPRunner) - Autonomous execution agent for purple team operations. Processes threat reports to build and run attack plans based on Tactics, Techniques, and Procedures.
+- [watchtower](https://github.com/fzn0x/watchtower) - Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites.
 - [Zen-Ai-Pentest](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest) - An AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting.
 
 
