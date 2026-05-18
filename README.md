@@ -174,3 +174,4 @@ Intentionally vulnerable AI applications, agents, and LLM implementations design
 - [Prompt Airlines CTF](https://promptairlines.com/) - Test Your AI Security Skills.
 - [PromptMe](https://github.com/R3dShad0w7/PromptMe) - An educational project showcasing security vulnerabilities in LLMs and their web integrations with 10 hands-on challenges inspired by the OWASP LLM Top 10.
 - [RedAiRange (RAR)](https://github.com/ErdemOzgen/RedAiRange) - A comprehensive security platform designed specifically for AI red teaming and vulnerability assessment.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
