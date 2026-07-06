@@ -9,6 +9,7 @@ A curated list of awesome AI agents and tools specifically designed for AI-power
 - [OSINT Agents & Tools](#osint-agents--tools)
 - [Pentest & Red Teaming Agents](#pentest--red-teaming-agents)
 - [AI Red Teaming (Testing AI Targets)](#ai-red-teaming-testing-ai-targets)
+- [Security-Focused Models](#security-focused-models)
 - [Adversarial Machine Learning](#adversarial-machine-learning)
 - [Vulnerable AI Environments & Labs](#vulnerable-ai-environments--labs)
 
@@ -138,6 +139,12 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [system-prompt-benchmark](https://github.com/KazKozDev/system-prompt-benchmark) - Test your LLM system prompts against 287 real-world attack vectors, including prompt injection, jailbreaks, and data leaks.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) - Detects prompt injections, jailbreaks, and other potentially risky large language model inputs.
 - [whistleblower](https://github.com/Repello-AI/whistleblower) - Offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API.
+
+## Security-Focused Models
+
+Models fine-tuned or built for cybersecurity reasoning, red-team support, blue-team analysis, and AI security workflows.
+
+- [security-slm-unsloth-1.5b](https://huggingface.co/Nguuma/security-slm-unsloth-1.5b) - A 1.5B cybersecurity reasoning model fine-tuned for offline red-team, blue-team, threat analysis, and AI security workflows.
 
 ## Adversarial Machine Learning
 
