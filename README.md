@@ -87,6 +87,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [RedAmon](https://github.com/samugit83/RedAmon) - An AI-powered agentic red team framework designed to automate offensive security operations from recon to exploitation.
 - [Shannon](https://github.com/KeygraphHQ/shannon) - Autonomous AI pentesting tool functioning as a virtual hacker to identify and exploit vulnerabilities, evaluated against benchmarks like XBOW.
 - [Strix](https://github.com/usestrix/strix) - An AI-powered tool that simulates attacker behavior by executing applications and generating working proof-of-concept exploits.
+- [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - A multi-agent offensive-security framework for authorized red teaming, vulnerability discovery, and reporting workflows.
 - [ThreatSwarm](https://github.com/mukul975/ThreatSwarm) - 27 scope-enforced AI agents that run the full pentest kill-chain (recon → exploit → post-ex → DFIR → report) as a one-command Claude Code plugin. Backed by 754 MITRE-mapped skills.
 - [TTPRunner](https://github.com/Antonlovesdnb/TTPRunner) - Autonomous execution agent for purple team operations. Processes threat reports to build and run attack plans based on Tactics, Techniques, and Procedures.
 - [watchtower](https://github.com/fzn0x/watchtower) - Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites.
