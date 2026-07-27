@@ -86,6 +86,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [RAPTOR](https://github.com/gadievron/raptor) - An autonomous offensive/defensive security research framework based on Claude Code, empowering security research with agentic workflows and automation (Recursive Autonomous Penetration Testing and Observation Robot).
 - [Reaper](https://github.com/ghostsecurity/reaper) - Ghost Security's reconnaissance and attack surface discovery tool used for pentesting and identifying exposures.
 - [RedAmon](https://github.com/samugit83/RedAmon) - An AI-powered agentic red team framework designed to automate offensive security operations from recon to exploitation.
+- [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - AI-powered skill router for reverse engineering and authorized penetration testing workflows.
 - [Shannon](https://github.com/KeygraphHQ/shannon) - Autonomous AI pentesting tool functioning as a virtual hacker to identify and exploit vulnerabilities, evaluated against benchmarks like XBOW.
 - [Strix](https://github.com/usestrix/strix) - An AI-powered tool that simulates attacker behavior by executing applications and generating working proof-of-concept exploits.
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - A multi-agent offensive-security framework for authorized red teaming, vulnerability discovery, and reporting workflows.
