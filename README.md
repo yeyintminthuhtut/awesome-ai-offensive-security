@@ -3,13 +3,21 @@
 A curated list of awesome AI agents and tools specifically designed for AI-powered offensive security, as well as tools for attacking AI systems.
 
 > **Disclaimer:** This list is for educational and authorized testing purposes only. The primary purpose is to enhance defensive capabilities by understanding how autonomous AI attacks operate and how AI systems can be targeted. Ensure you have explicit permission before using any of these tools against any target.
+>
+## Contributing
+
+Contributions are very welcome! Please read the [Contribution Guidelines](contributing.md) before submitting a pull request.
+
+> **Note on Accuracy:** The information in this list is provided on a best-effort basis. The AI security landscape evolves rapidly. If you notice any inaccuracies, outdated links, or have suggestions for improvements, please feel free to contribute!
+
+---
 
 ## Contents
 
-- [Offensive AI MCP Servers (7)](#offensive-ai-mcp-servers-7)
+- [Contributing](#contributing)
 - [Offensive AI Agent Skills (3)](#offensive-ai-agent-skills-3)
 - [Agent Capability Benchmarks (6)](#agent-capability-benchmarks-6)
-- [Contributing](#contributing)
+- [Offensive AI MCP Servers (7)](#offensive-ai-mcp-servers-7)
 - [OSINT Agents & Tools (4)](#osint-agents-tools-4)
 - [Pentest & Red Teaming Agents (77)](#pentest-red-teaming-agents-77)
 - [AI Cyber Challenge (AIxCC) Systems (3)](#ai-cyber-challenge-aixcc-systems-3)
@@ -48,14 +56,6 @@ Open-source benchmarks for evaluating pentest, cybersecurity, CTF, and red-team 
 - [InterCode-CTF](https://github.com/princeton-nlp/intercode) - InterCode-CTF for interactive coding with execution feedback.
 - [TSecBench](https://tsecbench.zc.tencent.com/) - Tencent Security's unified benchmark for AI agents in offensive/defensive scenarios.
 - [XBOW Validation Benchmarks](https://github.com/xbow-engineering/validation-benchmarks) - XBOW Validation Benchmarks with 104 Web vulnerability challenges.
-
-## Contributing
-
-Contributions are very welcome! Please read the [Contribution Guidelines](contributing.md) before submitting a pull request.
-
-> **Note on Accuracy:** The information in this list is provided on a best-effort basis. The AI security landscape evolves rapidly. If you notice any inaccuracies, outdated links, or have suggestions for improvements, please feel free to contribute!
-
----
 
 ## OSINT Agents & Tools (4)
 
