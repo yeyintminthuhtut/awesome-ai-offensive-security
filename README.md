@@ -151,6 +151,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - A multi-agent offensive-security framework for authorized red teaming, vulnerability discovery, and reporting workflows.
 - [tinyctfer](https://github.com/chainreactors/tinyctfer) - CTF Agent with micro-intent runtime. - Tencent Challenge
 - [ToolSafe](https://github.com/MurrayTom/ToolSafe) - Official Implementation of "ToolSafe: Enhancing Tool Invocation Safety of LLM-based Agents via Proactive Step-level Guardrail and Feedback"
+- [Travis234 OffSec](https://github.com/htooayelwinict/travis234/tree/offsec-agent) - A provider-neutral tactical security agent for authorized CTF/lab work, security research, DFIR, incident response, and malware analysis.
 - [TTPRunner](https://github.com/Antonlovesdnb/TTPRunner) - Autonomous execution agent for purple team operations. Processes threat reports to build and run attack plans based on Tactics, Techniques, and Procedures.
 - [vlnr](https://github.com/nandrzej/vlnr) - AI security agent for Python supply-chain review.
 - [vulhunt](https://github.com/vulhunt-re/vulhunt) - Vulnerability detection framework by Binarly's REsearch team
