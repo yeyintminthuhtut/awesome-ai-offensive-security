@@ -124,6 +124,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [Offensive-AI-Attack-Path-Visualizer](https://github.com/HackerBlazeX/Offensive-AI-Attack-Path-Visualizer) - A Windows-first offensive security framework that correlates recon signals, applies AI reasoning via local LLM, and generates realistic attack paths in an analyst-friendly dashboard.
 - [oh-my-open-pentest](https://github.com/zakirkun/oh-my-open-pentest) - An AI agent that runs penetration tests. End to end. No babysitting.
 - [OpenAnt](https://github.com/knostic/OpenAnt) - An open-source, LLM-based vulnerability discovery product that proactively finds and verifies security flaws through a two-stage detection and attack process.
+- [open·kritt](https://github.com/Kritt-ai/open-kritt) - Open-source, self-hosted AI vulnerability research platform that orchestrates agents to find, validate, de-duplicate, and prioritize security issues in code.
 - [PenAgent](https://github.com/lcz24/PenAgent) - ai自动化渗透测试智能体 (Tencent Challenge)
 - [PentAGI](https://github.com/vxcontrol/pentagi) - A multi-agent framework using specialized AI roles for research, coding, and infrastructure to operate autonomously for vulnerability detection.
 - [Pentest Copilot](https://github.com/bugbasesecurity/pentest-copilot) - An AI-powered, browser-based ethical hacking assistant designed for pentesting workflows, deployable locally with Docker.
