@@ -227,6 +227,7 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [PyMLOKit](https://github.com/ThanniKudam/PyMLOKit) - Toolkit to attack MLOps platforms via REST APIs, supporting modules for reconnaissance, training data theft, model theft, model poisoning, and notebook attacks.
 - [PyRIT (Python Risk Identification Tool)](https://github.com/Azure/PyRIT) - An open-source automation framework from Microsoft's AI Red Team for programmatic multi-turn orchestration and custom attack scenarios against AI systems.
 - [rogue](https://github.com/qualifire-dev/rogue) - Tool to stress-test your AI agents before attackers do by finding prompt injection, sensitive data exposure, and excessive agency.
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector) - NVIDIA's security scanner for AI agent skills, detecting prompt injection, data exfiltration, malicious code, excessive agency, and supply-chain risks before installation.
 - [spikee](https://github.com/ReversecLabs/spikee) - Simple prompt injection kit for evaluation and exploitation.
 - [system-prompt-benchmark](https://github.com/KazKozDev/system-prompt-benchmark) - Test your LLM system prompts against 287 real-world attack vectors, including prompt injection, jailbreaks, and data leaks.
 - [vigil-llm](https://github.com/deadbits/vigil-llm) - Detects prompt injections, jailbreaks, and other potentially risky large language model inputs.
