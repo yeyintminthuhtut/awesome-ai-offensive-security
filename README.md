@@ -155,6 +155,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [vlnr](https://github.com/nandrzej/vlnr) - AI security agent for Python supply-chain review.
 - [vulhunt](https://github.com/vulhunt-re/vulhunt) - Vulnerability detection framework by Binarly's REsearch team
 - [VulnBot](https://github.com/KHenryAegis/VulnBot) - Multi-agent collaborative framework for autonomous pentesting.
+- [vulnerator-ai](https://github.com/irraz/vulnerator-ai) - Autonomous OODA-loop pentest agent driven by Hermes; runs Kali tools and a real browser (Playwright) over MCP, orients with MITRE ATT&CK, and ships its own MCP front door plus evidence-backed reports. Multi-LLM (OpenRouter / Ollama).
 - [Vulnhalla](https://github.com/cyberark/Vulnhalla) - LLM-assisted CodeQL triage for reducing false positives while vulnerability hunting.
 - [vulnhunter](https://github.com/capitalone/vulnhunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
 - [vulnhuntr](https://github.com/protectai/vulnhuntr) - LLM zero-shot vulnerability discovery agent.
