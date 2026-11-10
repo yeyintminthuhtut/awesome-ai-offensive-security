@@ -15,7 +15,7 @@ A curated list of awesome AI agents and tools specifically designed for AI-power
 - [Adversarial Machine Learning (13)](#adversarial-machine-learning-13)
 - [AI Cyber Challenge (AIxCC) Systems (3)](#ai-cyber-challenge-aixcc-systems-3)
 - [Academic Papers (8)](#academic-papers-8)
-- [Vulnerable AI Environments & Labs (18)](#vulnerable-ai-environments-labs-18)
+- [Vulnerable AI Environments & Labs (19)](#vulnerable-ai-environments--labs-19)
 - [Agent Capability Benchmarks (6)](#agent-capability-benchmarks-6)
 - [Contributing](#contributing)
 
@@ -289,7 +289,7 @@ Academic research and papers focusing on offensive AI, agentic penetration testi
 - [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://alphaxiv.org/abs/2404.08144) - **N-day Exploitation**: Focuses on using known vulnerability reports to generate exploits.
 - [CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities](https://alphaxiv.org/abs/2503.17332) - **Benchmarking**: Provides a large dataset of real vulnerabilities to test agent performance.
 
-## Vulnerable AI Environments & Labs (18)
+## Vulnerable AI Environments & Labs (19)
 
 Intentionally vulnerable AI applications, agents, and LLM implementations designed for practicing and learning AI security testing.
 
@@ -308,6 +308,7 @@ Intentionally vulnerable AI applications, agents, and LLM implementations design
 - [llmail-inject-challenge](https://github.com/microsoft/llmail-inject-challenge) - A challenge to evade prompt injection defenses in a simulated LLM-integrated email client, the LLMail service.
 - [LLMGoat](https://github.com/SECFORCE/LLMGoat) - This project is a deliberately vulnerable environment to learn about LLM-specific risks based on the OWASP Top 10 for LLM Applications.
 - [local-llm-ctf](https://github.com/BishopFox/local-llm-ctf) - Small Go + Ollama harness that routes prompts through “quarantined” vs. “privileged” models to practice bypassing filters and guardrails.
+- [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - Local Python lab for synthetic agent-memory poisoning, origin-aware defenses and bounded repair with scripted agents, not measured LLM safety.
 - [Prompt Airlines CTF](https://promptairlines.com/) - Test Your AI Security Skills.
 - [PromptMe](https://github.com/R3dShad0w7/PromptMe) - An educational project showcasing security vulnerabilities in LLMs and their web integrations with 10 hands-on challenges inspired by the OWASP LLM Top 10.
 - [RedAiRange (RAR)](https://github.com/ErdemOzgen/RedAiRange) - A comprehensive security platform designed specifically for AI red teaming and vulnerability assessment.
@@ -330,4 +331,3 @@ Contributions are very welcome! Please read the [Contribution Guidelines](contri
 > **Note on Accuracy:** The information in this list is provided on a best-effort basis. The AI security landscape evolves rapidly. If you notice any inaccuracies, outdated links, or have suggestions for improvements, please feel free to contribute!
 
 ---
-
