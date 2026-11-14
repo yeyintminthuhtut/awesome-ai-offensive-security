@@ -11,7 +11,7 @@ A curated list of awesome AI agents and tools specifically designed for AI-power
 - [Offensive AI MCP Servers (9)](#offensive-ai-mcp-servers-9)
 - [Offensive AI Agent Skills (3)](#offensive-ai-agent-skills-3)
 - [AI Red Teaming (Testing AI Targets) (41)](#ai-red-teaming-testing-ai-targets-41)
-- [Security-Focused Models (12)](#security-focused-models-12)
+- [Security-Focused Models (13)](#security-focused-models-13)
 - [Adversarial Machine Learning (13)](#adversarial-machine-learning-13)
 - [AI Cyber Challenge (AIxCC) Systems (3)](#ai-cyber-challenge-aixcc-systems-3)
 - [Academic Papers (8)](#academic-papers-8)
@@ -232,7 +232,7 @@ Tools specifically designed to test the security of AI systems, LLMs, and autono
 - [vigil-llm](https://github.com/deadbits/vigil-llm) - Detects prompt injections, jailbreaks, and other potentially risky large language model inputs.
 - [whistleblower](https://github.com/Repello-AI/whistleblower) - Offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API.
 
-## Security-Focused Models (12)
+## Security-Focused Models (13)
 
 Models fine-tuned or built for cybersecurity reasoning, red-team support, blue-team analysis, and AI security workflows.
 
@@ -241,6 +241,7 @@ Models fine-tuned or built for cybersecurity reasoning, red-team support, blue-t
 - [CyberSecQwen-4B](https://huggingface.co/athena129/CyberSecQwen-4B) - Defensive security model.
 - [CyberStrike-OffSec-35B](https://huggingface.co/oyildirim/CyberStrike-OffSec-35B) - 35B MoE offensive security model (uncensored).
 - [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - Cisco Foundation AI's security reasoning model.
+- [InterOdin Odin v1](https://interodin.com/en) - Hosted uncensored model for security research, served through an OpenAI-compatible pay-per-token API (weights not released).
 - [Lily-Cybersecurity-7B-v0.2](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2) - Cybersecurity/hacker QA model without strong refusal alignment.
 - [Meta-SecAlign-8B](https://github.com/facebookresearch/Meta_SecAlign) - Model with built-in prompt injection defense.
 - [Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/bestexhibitions/Qwythos-9B-Claude-Mythos-5-1M) - Uncensored reasoning model trained on Claude's chain-of-thought.
