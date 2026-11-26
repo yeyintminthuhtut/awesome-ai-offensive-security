@@ -95,6 +95,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [flounder](https://github.com/adshao/flounder) - Autonomous white-hat security auditor for AI-driven code review, bug bounty research, exploit construction, and execution-grounded verification.
 - [fraim](https://github.com/fraim-dev/fraim) - Framework for security teams to build AI-powered workflows that orchestrate agents, tools, and security outputs.
 - [ghostcrew](https://github.com/shakenetwork/ghostcrew) - All-in-one offensive security toolbox with AI agent and MCP architecture. Integrates tools like Nmap, Metasploit, FFUF, SQLMap. Enables pentesting, bug bounty hunting, threat hunting, and reporting. RAG-based responses with local knowledge base support. https://github.com/GH05TCREW/ghostcrew
+- [GLAV](https://glav.ai) - AI pentesting platform for security agencies and MSSPs: AI testing agents test web apps and APIs and return evidence-backed findings with remediation and client-ready reports.
 - [grimoire](https://github.com/JoranHonig/grimoire) - An agentic auditing stack
 - [guardian-cli](https://github.com/zakirkun/guardian-cli) - AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows.
 - [H-Pentest](https://github.com/hexian2001/H-Pentest) - 🔐 H-Pentest v2.0 🥷 AI-Powered Penetration Testing Platform (Tencent Challenge)
