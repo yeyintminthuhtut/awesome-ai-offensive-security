@@ -49,7 +49,7 @@ AI-driven autonomous or semi-autonomous agents designed to perform active penetr
 - [apex](https://github.com/pensarai/apex) - AI-powered offensive security testing using autonomous agents, directly in your terminal.
 - [aracne](https://github.com/stratosphereips/aracne) - Autonomous agent for offensive and defensive SSH operations.
 - [ARTEMIS](https://github.com/Stanford-Trinity/ARTEMIS) - Automated Red Teaming Engine with Multi-agent Intelligent Supervision.
-- [august-action](https://github.com/augstai/august-action) - Autonomous pull-request authorization, API boundary, and MCP security gate powered by the August Cyber CLI (`august.so`).
+- [august-cli](https://github.com/augstai/august-cli) - Open-source Rust offensive security CLI and 20-tool MCP server (Apache-2.0) for multi-framework API/GraphQL/MCP discovery, scope-locked exploit chains, executable curl regressions, and BYOK auto-patching.
 - [auto-exploits](https://github.com/Valmarelox/auto-exploits) - Repository associated with generated exploit automation examples.
 - [autopentest-ai](https://github.com/bhavsec/autopentest-ai) - Agentic Pentesting MCP server that discovers, exploits, and reports web application vulnerabilities.
 - [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) - Automates penetration testing using deep reinforcement learning.
